@@ -154,6 +154,8 @@ void LibraryManagement :: borrow_book() {
 int main () {
 
 	cout<< "moin\n";
+	cout<< "uddin\n";
+
 	LibraryManagement library;
 	int operation;
 
