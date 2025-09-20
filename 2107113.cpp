@@ -152,6 +152,8 @@ void LibraryManagement :: borrow_book() {
 }
 
 int main () {
+
+	cout<< "moin\n";
 	LibraryManagement library;
 	int operation;
 
